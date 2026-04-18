@@ -1,0 +1,36 @@
+{
+  "name": "ai-service",
+  "version": "1.0.0",
+  "description": "AI service using Google Gemini API",
+  "main": "ai-service.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ai-service.js",
+    "dev": "nodemon ai-service.js",
+    "seed": "node scripts/seedData.js",
+    "create-indexes": "node scripts/createIndexes.js",
+    "fix-indexes": "node scripts/fixIndexes.js",
+    "show-indexes": "node scripts/showIndexes.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [
+    "ai",
+    "gemini",
+    "google",
+    "chatbot",
+    "search",
+    "marketplace"
+  ],
+  "author": "",
+  "license": "MIT"
+}

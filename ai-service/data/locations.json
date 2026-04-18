@@ -1,0 +1,36 @@
+{
+  "India": {
+    "Maharashtra": ["Mumbai", "Pune", "Nagpur", "Thane", "Nashik"],
+    "Karnataka": ["Bangalore", "Mysore", "Hubli", "Mangalore"],
+    "Tamil Nadu": ["Chennai", "Coimbatore", "Madurai", "Salem"],
+    "Telangana": ["Hyderabad", "Warangal", "Karimnagar"],
+    "Delhi": ["New Delhi", "Delhi"],
+    "Uttar Pradesh": ["Lucknow", "Kanpur", "Varanasi", "Agra"],
+    "Gujarat": ["Ahmedabad", "Surat", "Vadodara", "Rajkot"],
+    "West Bengal": ["Kolkata", "Howrah", "Durgapur"],
+    "Rajasthan": ["Jaipur", "Jodhpur", "Udaipur", "Kota"],
+    "Kerala": ["Thiruvananthapuram", "Kochi", "Kozhikode"]
+  },
+  "United States": {
+    "California": ["Los Angeles", "San Francisco", "San Diego", "Sacramento"],
+    "New York": ["New York City", "Buffalo", "Rochester"],
+    "Texas": ["Houston", "Dallas", "Austin", "San Antonio"],
+    "Florida": ["Miami", "Orlando", "Tampa", "Jacksonville"],
+    "Illinois": ["Chicago", "Springfield", "Peoria"]
+  },
+  "United Kingdom": {
+    "England": ["London", "Manchester", "Birmingham", "Liverpool"],
+    "Scotland": ["Edinburgh", "Glasgow", "Aberdeen"],
+    "Wales": ["Cardiff", "Swansea", "Newport"]
+  },
+  "Canada": {
+    "Ontario": ["Toronto", "Ottawa", "Mississauga"],
+    "Quebec": ["Montreal", "Quebec City", "Laval"],
+    "British Columbia": ["Vancouver", "Victoria", "Surrey"]
+  },
+  "Australia": {
+    "New South Wales": ["Sydney", "Newcastle", "Wollongong"],
+    "Victoria": ["Melbourne", "Geelong", "Ballarat"],
+    "Queensland": ["Brisbane", "Gold Coast", "Townsville"]
+  }
+} 

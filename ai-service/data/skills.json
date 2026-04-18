@@ -1,0 +1,26 @@
+{
+  "Frontend": [
+    "React", "Vue", "Angular", "JavaScript", "TypeScript", "HTML", "CSS", "Sass", "Less", "Bootstrap", "Tailwind", "Material-UI", "Redux", "Vuex", "Next.js", "Nuxt.js", "Gatsby", "Webpack", "Vite", "Babel"
+  ],
+  "Backend": [
+    "Node.js", "Express", "Python", "Django", "Flask", "Java", "Spring", "C#", ".NET", "PHP", "Laravel", "Ruby", "Rails", "Go", "Rust", "FastAPI", "GraphQL", "REST", "MongoDB", "PostgreSQL", "MySQL", "Redis", "E-commerce", "Payment Integration", "Stripe", "PayPal", "Razorpay"
+  ],
+  "Mobile": [
+    "React Native", "Flutter", "Swift", "Kotlin", "Android", "iOS", "Xamarin", "Ionic", "Cordova", "PhoneGap"
+  ],
+  "Design": [
+    "Figma", "Adobe XD", "Sketch", "InVision", "Photoshop", "Illustrator", "UI/UX", "Prototyping", "Wireframing", "User Research"
+  ],
+  "DevOps": [
+    "Docker", "Kubernetes", "AWS", "Azure", "GCP", "Jenkins", "GitLab CI", "GitHub Actions", "Terraform", "Ansible", "Nginx", "Apache"
+  ],
+  "Database": [
+    "MongoDB", "PostgreSQL", "MySQL", "Redis", "Elasticsearch", "Cassandra", "DynamoDB", "Firebase", "Supabase"
+  ],
+  "Blockchain": [
+    "Solidity", "Ethereum", "Bitcoin", "Smart Contracts", "Web3", "DeFi", "NFT", "DApp", "MetaMask", "Truffle"
+  ],
+  "AI/ML": [
+    "Python", "TensorFlow", "PyTorch", "Scikit-learn", "OpenAI", "GPT", "Machine Learning", "Deep Learning", "NLP", "Computer Vision"
+  ]
+} 
